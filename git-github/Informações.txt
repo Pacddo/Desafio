@@ -1,0 +1,4 @@
+Comandos
+
+git init-Iniciar uma pasta Git
+Git status- Verificar os commits e atualizações da pasta
